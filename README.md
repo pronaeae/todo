@@ -34,6 +34,8 @@ tood/
     -   상태 관리의 어려움
     -   코드 재사용성의 한계
 
+> 📖 **자세한 내용**: [01-vanilla-js/README.md](./01-vanilla-js/README.md) 참조
+
 ### 2. jQuery (02-jquery)
 
 -   **기술**: HTML, CSS, JavaScript, jQuery
