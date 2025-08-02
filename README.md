@@ -45,6 +45,8 @@ tood/
     -   여전히 남아있는 DOM 조작의 복잡성
     -   상태 관리의 한계
 
+> 📖 **자세한 내용**: [02-jquery/README.md](./02-jquery/README.md) 참조
+
 ### 3. React (03-react)
 
 -   **기술**: React, JavaScript/TypeScript
@@ -127,12 +129,6 @@ cd tood
 -   왜 jQuery가 필요했는가?
 -   React가 가져온 혁신은 무엇인가?
 -   Next.js가 해결한 문제는 무엇인가?
-
-### 실무 적용
-
--   프로젝트 요구사항에 따른 기술 선택 기준
--   팀 규모와 기술 스택의 관계
--   성능과 개발 경험의 균형
 
 ## 🤝 기여하기
 

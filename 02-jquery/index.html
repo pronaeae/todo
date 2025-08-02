@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link rel="stylesheet" href="global.css" />
+	</head>
+	<body>
+		<main>
+			<h1>작성된 계획이 없으시군요...</h1>
+
+			<!-- 할 일을 추가하는 폼 -->
+			<form id="add-todo">
+				<input id="add-todo-input" minlength="2" required />
+				<!-- <button type="submit" id="add-todo-button" class="submitBtn">제출</button> -->
+			</form>
+
+			<!-- 완료, 미완료 갯수를 알려주는 텍스트 -->
+			<div id="todo-complete"></div>
+
+			<!-- 할 일을 표시하는 리스트 -->
+			<ul id="todo-list"></ul>
+		</main>
+
+		<script
+			src="https://code.jquery.com/jquery-3.7.1.min.js"
+			integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+			crossorigin="anonymous"
+		></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+		<script src="jquery.js"></script>
+	</body>
+</html>
